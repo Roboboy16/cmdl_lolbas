@@ -1,2 +1,2 @@
 # cmdlet_lolbas
-PoC of cmdl32.exe from LolBas
+Usage run.ps1 -FileName {FileName to download} -Dir {Directory to be created}
